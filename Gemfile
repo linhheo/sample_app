@@ -34,7 +34,9 @@ gem 'bcrypt', '~> 3.1.7'
 # gem 'capistrano-rails', group: :development
 
 gem 'jquery-rails', '~> 4.3'
-
+gem 'faker', '~> 2.3'
+gem 'will_paginate',           '3.1.6'
+gem 'bootstrap-will_paginate', '1.0.0'
 gem 'bootstrap-sass', '3.3.7'
 
 # Reduces boot times through caching; required in config/boot.rb
