@@ -16,7 +16,7 @@ gem 'jquery-rails', '~> 4.3'
 gem 'faker', '~> 2.3'
 gem 'will_paginate',         '3.1.7'
 gem 'bootstrap-will_paginate', '1.0.0'
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
